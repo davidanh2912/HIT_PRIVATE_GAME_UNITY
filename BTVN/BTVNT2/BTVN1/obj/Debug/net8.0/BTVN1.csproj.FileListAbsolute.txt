@@ -1,0 +1,15 @@
+C:\CODE\C#_Unity\BTVN\BTVNT2\BTVN1\bin\Debug\net8.0\BTVN1.exe
+C:\CODE\C#_Unity\BTVN\BTVNT2\BTVN1\bin\Debug\net8.0\BTVN1.deps.json
+C:\CODE\C#_Unity\BTVN\BTVNT2\BTVN1\bin\Debug\net8.0\BTVN1.runtimeconfig.json
+C:\CODE\C#_Unity\BTVN\BTVNT2\BTVN1\bin\Debug\net8.0\BTVN1.dll
+C:\CODE\C#_Unity\BTVN\BTVNT2\BTVN1\bin\Debug\net8.0\BTVN1.pdb
+C:\CODE\C#_Unity\BTVN\BTVNT2\BTVN1\obj\Debug\net8.0\BTVN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\C#_Unity\BTVN\BTVNT2\BTVN1\obj\Debug\net8.0\BTVN1.AssemblyInfoInputs.cache
+C:\CODE\C#_Unity\BTVN\BTVNT2\BTVN1\obj\Debug\net8.0\BTVN1.AssemblyInfo.cs
+C:\CODE\C#_Unity\BTVN\BTVNT2\BTVN1\obj\Debug\net8.0\BTVN1.csproj.CoreCompileInputs.cache
+C:\CODE\C#_Unity\BTVN\BTVNT2\BTVN1\obj\Debug\net8.0\BTVN1.sourcelink.json
+C:\CODE\C#_Unity\BTVN\BTVNT2\BTVN1\obj\Debug\net8.0\BTVN1.dll
+C:\CODE\C#_Unity\BTVN\BTVNT2\BTVN1\obj\Debug\net8.0\refint\BTVN1.dll
+C:\CODE\C#_Unity\BTVN\BTVNT2\BTVN1\obj\Debug\net8.0\BTVN1.pdb
+C:\CODE\C#_Unity\BTVN\BTVNT2\BTVN1\obj\Debug\net8.0\BTVN1.genruntimeconfig.cache
+C:\CODE\C#_Unity\BTVN\BTVNT2\BTVN1\obj\Debug\net8.0\ref\BTVN1.dll
