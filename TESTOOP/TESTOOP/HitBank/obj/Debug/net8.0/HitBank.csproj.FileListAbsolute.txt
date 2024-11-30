@@ -1,0 +1,15 @@
+C:\CODE\C#_Unity\TESTOOP\TESTOOP\HitBank\obj\Debug\net8.0\HitBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\C#_Unity\TESTOOP\TESTOOP\HitBank\obj\Debug\net8.0\HitBank.AssemblyInfoInputs.cache
+C:\CODE\C#_Unity\TESTOOP\TESTOOP\HitBank\obj\Debug\net8.0\HitBank.AssemblyInfo.cs
+C:\CODE\C#_Unity\TESTOOP\TESTOOP\HitBank\obj\Debug\net8.0\HitBank.csproj.CoreCompileInputs.cache
+C:\CODE\C#_Unity\TESTOOP\TESTOOP\HitBank\obj\Debug\net8.0\HitBank.sourcelink.json
+C:\CODE\C#_Unity\TESTOOP\TESTOOP\HitBank\bin\Debug\net8.0\HitBank.exe
+C:\CODE\C#_Unity\TESTOOP\TESTOOP\HitBank\bin\Debug\net8.0\HitBank.deps.json
+C:\CODE\C#_Unity\TESTOOP\TESTOOP\HitBank\bin\Debug\net8.0\HitBank.runtimeconfig.json
+C:\CODE\C#_Unity\TESTOOP\TESTOOP\HitBank\bin\Debug\net8.0\HitBank.dll
+C:\CODE\C#_Unity\TESTOOP\TESTOOP\HitBank\bin\Debug\net8.0\HitBank.pdb
+C:\CODE\C#_Unity\TESTOOP\TESTOOP\HitBank\obj\Debug\net8.0\HitBank.dll
+C:\CODE\C#_Unity\TESTOOP\TESTOOP\HitBank\obj\Debug\net8.0\refint\HitBank.dll
+C:\CODE\C#_Unity\TESTOOP\TESTOOP\HitBank\obj\Debug\net8.0\HitBank.pdb
+C:\CODE\C#_Unity\TESTOOP\TESTOOP\HitBank\obj\Debug\net8.0\HitBank.genruntimeconfig.cache
+C:\CODE\C#_Unity\TESTOOP\TESTOOP\HitBank\obj\Debug\net8.0\ref\HitBank.dll
